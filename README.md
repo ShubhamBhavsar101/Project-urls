@@ -3,8 +3,10 @@ This Repo contains urls of all my deployed projects.
 
 ERP College Project deployed on Heroku
   Website - https://django-erp-live.herokuapp.com/
-  Credentials - userlogin - username - testuser
-                            password - testuser
+  
+  Credentials - userlogin - username/email - testuser / test@mail.com
+                            password - test@123
+                            
   Features -  1) User authentication
               2) Different views for different faculties
               3) CRUD Functionality
